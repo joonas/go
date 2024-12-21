@@ -18,7 +18,7 @@
   "postUpdateOptions" : [
     "gomodTidy"
   ],
-  "prHourlyLimit": 10,
+  "prHourlyLimit": 0,
   "prConcurrentLimit": 10,
   "branchConcurrentLimit": 10,
   "packageRules": [
